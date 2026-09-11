@@ -1,21 +1,21 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "packages": [
     {
       "name": "app",
-      "url": "https://github.com/porogo0123/iununidndn/releases/download/v1.2.0/MSTControl_app_1.2.0.zip",
-      "sha256": "sha256:afa8b8ed26443d327f3f074ecf1d7ed8ac2fcfc2277ed3dda55bc2bb4adf64e4"
+      "url": "https://github.com/porogo0123/iununidndn/releases/download/v1.2.1/MSTControl_app_1.2.0.zip",
+      "sha256": "sha256:8ce6b0d6a9e638518d31e80783d739364bc52453eb9fa1aa45f19555d329da02"
     },
     {
       "name": "internal_1",
-      "url": "https://github.com/porogo0123/iununidndn/releases/download/v1.2.0/MSTControl_internal_1_1.2.0.zip",
-      "sha256": "sha256:67d9c274db62f3479a260de3e0624468922d830a62b8233cf057a6306622ee87"
+      "url": "https://github.com/porogo0123/iununidndn/releases/download/v1.2.1/MSTControl_internal_1_1.2.0.zip",
+      "sha256": "sha256:df8f487f9de14f07f0f788e1ca10dabece872fddc152839c6903720e5905a1aa"
     },
     {
       "name": "internal_2",
-      "url": "https://github.com/porogo0123/iununidndn/releases/download/v1.2.0/MSTControl_internal_2_1.2.0.zip",
-      "sha256": "sha256:1289dd4ca6dc2e674504886c13c75930c040987499189118e706e1a1f6f8c1fe"
+      "url": "https://github.com/porogo0123/iununidndn/releases/download/v1.2.1/MSTControl_internal_2_1.2.0.zip",
+      "sha256": "sha256:84ae7d5ea1f0ab7dee928bd851f174672325b0319e3f23f2f22e0e0e348831c1"
     }
   ],
-  "notes": "Update MST Control 1.2.0"
+  "notes": "Update MST Control 1.2.1"
 }
