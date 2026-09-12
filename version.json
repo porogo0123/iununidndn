@@ -3,17 +3,17 @@
   "packages": [
     {
       "name": "app",
-      "url": "https://github.com/porogo0123/iununidndn/releases/download/untagged-8cbc2576be0a8c7a6fe8/MSTControl_app_1.2.2.zip",
+      "url": "https://github.com/porogo0123/iununidndn/releases/download/v1.2.2/MSTControl_app_1.2.2.zip",
       "sha256": "sha256:becb784bad8d3f5b04c6ce89cc28e2d17fecd98a23f1f2f0b0eccf0660b67350"
     },
     {
       "name": "internal_1",
-      "url": "https://github.com/porogo0123/iununidndn/releases/download/untagged-8cbc2576be0a8c7a6fe8/MSTControl_internal_1_1.2.2.zip",
+      "url": "https://github.com/porogo0123/iununidndn/releases/download/v1.2.2/MSTControl_internal_1_1.2.2.zip",
       "sha256": "sha256:afd6427324acc55075f9bfd116c20a777b19976cbf0bdf55daeaa05a70bc4357"
     },
     {
       "name": "internal_2",
-      "url": "https://github.com/porogo0123/iununidndn/releases/download/untagged-8cbc2576be0a8c7a6fe8/MSTControl_internal_2_1.2.2.zip",
+      "url": "https://github.com/porogo0123/iununidndn/releases/download/v1.2.2/MSTControl_internal_2_1.2.2.zip",
       "sha256": "sha256:ba0fc3a9c52276671e58e5f8c2411238b9cd0d57f08ec3be4860bec49ccafc58"
     }
   ],
