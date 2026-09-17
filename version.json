@@ -1,11 +1,11 @@
 {
-  "version": "1.2.5",
+  "version": "1.2.6",
   "packages": [
     {
       "name": "app",
-      "url": "https://github.com/porogo0123/iununidndn/releases/download/v1.2.5/MSTControl_app_1.2.5.zip",
-      "sha256": "sha256:adb993eb761b435a069e6fe0b51c87293b60ff959603f63b889826d7568e8771"
+      "url": "https://github.com/porogo0123/iununidndn/releases/download/v1.2.6/MSTControl_app_1.2.6.zip",
+      "sha256": "sha256:2db9d8a5f43c7afd9777d6c1b87909ecdd139bb798ba74c1bf04acfe3a9f0603"
     }
   ],
-  "notes": "Update MST Control 1.2.5"
+  "notes": "Update MST Control 1.2.6"
 }
